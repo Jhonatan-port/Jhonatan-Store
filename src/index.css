@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    @apply box-border
+}
+
+:root{
+    @apply bg-gray-100
+}

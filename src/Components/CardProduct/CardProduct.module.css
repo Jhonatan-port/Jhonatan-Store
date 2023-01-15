@@ -1,0 +1,4 @@
+.card__padrao{
+    @apply border border-neutral-400 flex flex-col justify-between items-center  rounded-md w-56  shadow-md hover:border-2 overflow-hidden px-8 py-4 bg-white
+
+}
